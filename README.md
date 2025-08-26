@@ -8,3 +8,4 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | # | Problem | Difficulty | Status | Link |
 |---|---------|------------|--------|------|
 | 1 | Two Sum | Easy | ✅ | [LeetCode](https://leetcode.com/problems/two-sum/) |
+| 2 | Longest Consecutive Sequence | Medium | ✅ | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) |
