@@ -17,3 +17,4 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 8 | Maximum Subarray | Medium | ✅ | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |
 | 9 | Maximum Sum Subarray Of Size K | Medium | ✅ | [LeetCode]() |
 | 10 | Longest Substring Without Repeating Characters | Medium | ✅ | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 10 | Minimum Window Substring | Hard | ✅ | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) |
