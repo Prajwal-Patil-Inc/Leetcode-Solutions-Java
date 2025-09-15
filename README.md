@@ -14,3 +14,4 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 5 | Majority Element | Easy | ✅ | [LeetCode](https://leetcode.com/problems/majority-element/) |
 | 6 | Best time to buy and sell stocks - 1 | Easy | ✅ | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 7 | Product of Array except itself | Medium | ✅ | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) |
+| 8 | Maximum Subarray | Medium | ✅ | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |
