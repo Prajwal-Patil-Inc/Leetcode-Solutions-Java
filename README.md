@@ -20,3 +20,4 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 10 | Minimum Window Substring | Hard | ✅ | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) |
 | 11 | Substring with concatenation of all words | Hard | ✅ | [LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |
 | 11 | Two Sum - II | Medium | ✅ | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 11 | Remove duplicates from sorted array | Easy | ✅ | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
