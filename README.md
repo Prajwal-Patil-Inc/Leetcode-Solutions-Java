@@ -22,3 +22,4 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 13 | Two Sum - II | Medium | ✅ | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 14 | Remove duplicates from sorted array | Easy | ✅ | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 15 | Squares of sorted array | Easy | ✅ | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
+| 16 | 3 Sum | Medium | ✅ | [LeetCode](https://leetcode.com/problems/3sum) |
