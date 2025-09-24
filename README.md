@@ -23,3 +23,10 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 14 | Remove duplicates from sorted array | Easy | ✅ | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 15 | Squares of sorted array | Easy | ✅ | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 16 | 3 Sum | Medium | ✅ | [LeetCode](https://leetcode.com/problems/3sum) |
+| 17 | Trapping Rain Water | Hard | ✅ | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) |
+| 18 | High Five | Easy | ✅ | [LeetCode](https://leetcode.com/problems/high-five/) |
+| 19 | Minimum Path Sum | Medium | ✅ | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) |
+| 20 | Fraction Addition and Subtraction | Medium | ✅ | [LeetCode](https://leetcode.com/problems/fraction-addition-and-subtraction/) |
+| 20 | Integer to Roman | Medium | ✅ | [LeetCode](https://leetcode.com/problems/integer-to-roman/) |
+
+
