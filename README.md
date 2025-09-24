@@ -31,5 +31,6 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 22 | Kth Largest Element in a array | Medium | ✅ | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 23 | Backspace String Compare | Easy | ✅ | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) |
 | 24 | Merge Intervals | Medium | ✅ | [LeetCode](https://leetcode.com/problems/merge-intervals/) |
+| 25 | Check if the sentence is pangram | Easy | ✅ | [LeetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) |
 
 
