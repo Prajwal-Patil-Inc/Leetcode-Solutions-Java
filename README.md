@@ -29,6 +29,6 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 20 | Fraction Addition and Subtraction | Medium | ✅ | [LeetCode](https://leetcode.com/problems/fraction-addition-and-subtraction/) |
 | 21 | Integer to Roman | Medium | ✅ | [LeetCode](https://leetcode.com/problems/integer-to-roman/) |
 | 22 | Kth Largest Element in a array | Medium | ✅ | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
-| 22 | Backspace String Compare | Easy | ✅ | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) |
+| 23 | Backspace String Compare | Easy | ✅ | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) |
 
 
