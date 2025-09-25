@@ -32,5 +32,4 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 23 | Backspace String Compare | Easy | ✅ | [LeetCode](https://leetcode.com/problems/backspace-string-compare/) |
 | 24 | Merge Intervals | Medium | ✅ | [LeetCode](https://leetcode.com/problems/merge-intervals/) |
 | 25 | Check if the sentence is pangram | Easy | ✅ | [LeetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) |
-
-
+| 26 | Pascals Triangle | Easy | ✅ | [LeetCode](https://leetcode.com/problems/pascals-triangle/) |
