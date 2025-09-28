@@ -16,9 +16,12 @@ public class FractionAdditionAndSubtraction {
         return num + "/" + den;
     }
     public static long gcd(long a, long b){
-        if(a == b)  return a;
-        if(a > b)   return gcd(a-b, b);
-        else    return gcd(a, b-a);
+        while(b != 0){
+            long temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
     }
 
     public static void main(String[] args) {
