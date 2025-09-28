@@ -33,3 +33,6 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 24 | Merge Intervals | Medium | ✅ | [LeetCode](https://leetcode.com/problems/merge-intervals/) |
 | 25 | Check if the sentence is pangram | Easy | ✅ | [LeetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) |
 | 26 | Pascals Triangle | Easy | ✅ | [LeetCode](https://leetcode.com/problems/pascals-triangle/) |
+| 27 | Valid Paranthesis | Easy | ✅ | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
+| 28 | Longest Palindromic subsequence | Medium | ✅ | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) |
+
