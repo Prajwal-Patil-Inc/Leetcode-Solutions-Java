@@ -35,4 +35,6 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 26 | Pascals Triangle | Easy | ✅ | [LeetCode](https://leetcode.com/problems/pascals-triangle/) |
 | 27 | Valid Paranthesis | Easy | ✅ | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
 | 28 | Longest Palindromic subsequence | Medium | ✅ | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) |
+| 29 | Find first and last position of element in sorted array | Medium | ✅ | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+
 
