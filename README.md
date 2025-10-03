@@ -37,6 +37,7 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 28 | Longest Palindromic subsequence | Medium | ✅ | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) |
 | 29 | Find first and last position of element in sorted array | Medium | ✅ | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 30 | Perform String Shifts | Easy | ✅ | [LeetCode](https://leetcode.com/problems/perform-string-shifts/) |
+| 31 | Greatest Sum Divisible by Three | Medium | ✅ | [LeetCode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 
 
 
