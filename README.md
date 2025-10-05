@@ -39,6 +39,8 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 30 | Perform String Shifts | Easy | ✅ | [LeetCode](https://leetcode.com/problems/perform-string-shifts/) |
 | 31 | Greatest Sum Divisible by Three | Medium | ✅ | [LeetCode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 | 32 | Binary Tree Paths | Easy | ✅ | [LeetCode](https://leetcode.com/problems/binary-tree-paths) |
+| 33 | Reverse linked list - II | Medium | ✅ | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii) |
+
 
 
 
