@@ -40,7 +40,7 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 31 | Greatest Sum Divisible by Three | Medium | ✅ | [LeetCode](https://leetcode.com/problems/greatest-sum-divisible-by-three/) |
 | 32 | Binary Tree Paths | Easy | ✅ | [LeetCode](https://leetcode.com/problems/binary-tree-paths) |
 | 33 | Reverse linked list - II | Medium | ✅ | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii) |
-
+| 34 | Find all anagrams in a string | Medium | ✅ | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
 
 
 
