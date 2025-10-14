@@ -41,6 +41,9 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 32 | Binary Tree Paths | Easy | ✅ | [LeetCode](https://leetcode.com/problems/binary-tree-paths) |
 | 33 | Reverse linked list - II | Medium | ✅ | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii) |
 | 34 | Find all anagrams in a string | Medium | ✅ | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
+| 35 | Palindrome Linked List | Medium | ✅ | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) |
+| 36 | Check if array is sorted and rotated | Easy | ✅ | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
+
 
 
 
