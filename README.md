@@ -43,6 +43,8 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 34 | Find all anagrams in a string | Medium | ✅ | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
 | 35 | Palindrome Linked List | Medium | ✅ | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) |
 | 36 | Check if array is sorted and rotated | Easy | ✅ | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
+| 37 | Max Consecutive Ones | Easy | ✅ | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) |
+| 38 | Rearrange Array elements by Sign | Medium | ✅ | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
 
 
 
