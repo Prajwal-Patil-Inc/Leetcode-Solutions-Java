@@ -45,7 +45,8 @@ I solve problems in **Java** (preferred), and occasionally in **Python**.
 | 36 | Check if array is sorted and rotated | Easy | ✅ | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
 | 37 | Max Consecutive Ones | Easy | ✅ | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) |
 | 38 | Rearrange Array elements by Sign | Medium | ✅ | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
-
+| 39 | Minimum Number of Days to make M bouquets | Medium | ✅ | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
+| 40 | Find the smallest divisor given a threshold | Medium | ✅ | [LeetCode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) |
 
 
 
